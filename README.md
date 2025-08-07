@@ -177,7 +177,6 @@ LIBS += -L$$PWD/zmq/lib -llibzmq-v140-mt-4_3_4
 ## 📞 联系方式
 
 - **邮箱**: 1239503460@qq.com
-- **项目地址**: https://github.com/your-username/StreamHive_QT
 
 ---
 
